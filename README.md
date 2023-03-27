@@ -1,4 +1,3 @@
-# alice ;)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ed9d0b,100:f94001&height=180&section=header&text=WELCOME%20TO%20MY%20WONDERLAND%20👋&fontSize=30&animation=fadeln&fontAlignY=36&fontColor=ffffff" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=000000&width=435&lines=HI%2C+I'M+SEUNGYEON!" alt="Typing SVG" /></a>
